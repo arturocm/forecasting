@@ -1,3 +1,16 @@
+---
+title: About this training
+
+- This outline covers most of the challenges one faces when trying to Forecast Demand. 
+- It can be customize for specific industry and/or company needs.
+- Minimum Requirements:
+	- Mid Excel skills (Vlookup, Pivot Tables)
+- It can be available in English/Spanish
+
+<b>Note.-</b> If needed, Excel training can be covered in 1/2 day session
+
+---
+
 title: Agenda
 
 - Bio
